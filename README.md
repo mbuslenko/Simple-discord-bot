@@ -1,2 +1,2 @@
-# Weazel-Bot
-Официальный бот Weazel News Union Role Play от Louis Marten
+# Discord-bot
+Simple discord bot for fun & personal needs
